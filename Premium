@@ -150,8 +150,7 @@ http://62.210.27.219:80/live.ts?channelId=46&deviceMac=00:1A:79:BE:2F:F6&uid=161
 #EXTINF:-1 tvg-id="tlc.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="TLC" tvg-logo="" group-title="Entertainment Channels",TLC - TLC
 http://62.210.27.219:80/live.ts?channelId=47&deviceMac=00:1A:79:BE:2F:F6&uid=1615
 
-#EXTINF:-1 tvg-id="syfy.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Syfy" tvg-logo="" group-title="Entertainment Channels",Syfy - Syfy
-http://62.210.27.219:80/live.ts?channelId=48&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+
 
 
 

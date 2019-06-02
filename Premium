@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="USA",ABC (KABC) (PST)
 http://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8?exp=1527750966&ct=c&cid=7f4366ed88e344da86947eb0fa080ec2&sig=37af99214f85e55b1dfbec4030d06a8dee848131f8be1421ef36fbbae30e5387&pbs=cc5c74a2900d47b48ce4ec207b247a2d
 
+#EXTINF:-1,US - AMC HD
+http://voxtv.dynns.com:8000/USA/USA/2252
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="USA",ABC (WWSB) (EST)
 http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
 
@@ -111,7 +114,6 @@ http://espn.tmedia.me/cache/vh1.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" group-title="USA",TLC
 http://80.80.160.168/live/2/live.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://www.oktranslation.cn/images/languages/Arabic.png" group-title="LABEL",~ TV ~
 http://www.lengua.com/anthems/UnitedArabEmirates.mp3
 
@@ -129,6 +131,30 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",AD Sports 2 (HD)
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1,24/7 GREYS ANATOMY Local
+http://primestreams.tv:826/jamesfamily/jamesfamily/73968
+
+#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Crime and Investigation" tvg-logo="" group-title="Entertainment Channels",Crime and Investigation - Crime and Investigation
+http://62.210.27.219:80/live.ts?channelId=41&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+
+#EXTINF:-1 tvg-id="historychannel.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="HISTORY" tvg-logo="" group-title="Entertainment Channels",HISTORY - HISTORY
+http://62.210.27.219:80/live.ts?channelId=43&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+
+#EXTINF:-1 tvg-id="history2.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="H2" tvg-logo="" group-title="Entertainment Channels",H2 - H2
+http://62.210.27.219:80/live.ts?channelId=44&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+
+#EXTINF:-1 tvg-id="natgeowild.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="National Geo Wild" tvg-logo="" group-title="Entertainment Channels",National Geo Wild - National Geo Wild
+http://62.210.27.219:80/live.ts?channelId=45&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+
+#EXTINF:-1 tvg-id="natgeo.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="National Geographic" tvg-logo="" group-title="Entertainment Channels",National Geographic - National Geographic
+http://62.210.27.219:80/live.ts?channelId=46&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+
+#EXTINF:-1 tvg-id="tlc.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="TLC" tvg-logo="" group-title="Entertainment Channels",TLC - TLC
+http://62.210.27.219:80/live.ts?channelId=47&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+
+#EXTINF:-1 tvg-id="syfy.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Syfy" tvg-logo="" group-title="Entertainment Channels",Syfy - Syfy
+http://62.210.27.219:80/live.ts?channelId=48&deviceMac=00:1A:79:BE:2F:F6&uid=1615
 
 
 

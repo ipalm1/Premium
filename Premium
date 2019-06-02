@@ -63,15 +63,6 @@ http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png" group-title="USA",ESPN 2 (HD)
 http://espn.clinicalkey.icu/cache/espn2.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 group-title="Sport",Eurosport 1 R/E[B][COLOR green] ספורט - [/COLOR][/B]
-http://178.172.245.155:4323/udp/238.1.0.24:1234
-
-#EXTINF:-1 group-title="Sport",Eurosport 2 R/E[B][COLOR green] ספורט - [/COLOR][/B]
-http://178.172.245.155:4323/udp/238.1.0.6:1234
-
-#EXTINF:-1 group-title="Sport",FOX SPORT USA [B][COLOR green] ספורט - [/COLOR][/B]
-http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
-
 #EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_02/large.fox-cinema-blanco.png.8267a80d9cea1d104e0a5269171d158b.png" group-title="USA",Fox Premium Cinema
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8?fluxustv.m3u8
 

@@ -132,9 +132,6 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",AD Sports 2 (HD)
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 
-#EXTINF:-1,24/7 GREYS ANATOMY Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/73968
-
 #EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Crime and Investigation" tvg-logo="" group-title="Entertainment Channels",Crime and Investigation - Crime and Investigation
 http://62.210.27.219:80/live.ts?channelId=41&deviceMac=00:1A:79:BE:2F:F6&uid=1615
 

@@ -147,14 +147,8 @@ http://62.210.27.219:80/live.ts?channelId=45&deviceMac=00:1A:79:BE:2F:F6&uid=161
 #EXTINF:-1 tvg-id="natgeo.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="National Geographic" tvg-logo="" group-title="Entertainment Channels",National Geographic - National Geographic
 http://62.210.27.219:80/live.ts?channelId=46&deviceMac=00:1A:79:BE:2F:F6&uid=1615
 
-#EXTINF:0,Cinema One Global	
-http://182.55.226.115:8001/1:0:1:91:1E:1:FFFF0000:0:0:0
+#EXTINF:0,OSN: OSN Food Network HD
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/25806
 
-#EXTINF:0,GMA Life TV	
-http://182.55.226.115:8001/1:0:1:93:27:1:FFFF0000:0:0:0:
-
-#EXTINF:0,GMA Pinoy TV	
-http://182.55.226.115:8001/1:0:1:92:27:1:FFFF0000:0:0:0:
-
-#EXTINF:0,The Filipino Channel	
-http://182.55.226.115:8001/1:0:1:AB:13:1:FFFF0000:0:0:0:
+#EXTINF:0,OSN: OSN History Channel HD
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/25805

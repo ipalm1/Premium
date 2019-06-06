@@ -147,4 +147,24 @@ http://62.210.27.219:80/live.ts?channelId=45&deviceMac=00:1A:79:BE:2F:F6&uid=161
 #EXTINF:-1 tvg-id="natgeo.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="National Geographic" tvg-logo="" group-title="Entertainment Channels",National Geographic - National Geographic
 http://62.210.27.219:80/live.ts?channelId=46&deviceMac=00:1A:79:BE:2F:F6&uid=1615
 
+#EXTINF:-1,OSN Movies First HD
+http://51.15.21.98:8898/barrk/11e3254737/18023
+
+#EXTINF:-1,OSN Movies First HD 2h
+http://51.15.21.98:8898/barrk/11e3254737/18022
+
+#EXTINF:-1,OSN Series First HD
+http://51.15.21.98:8898/barrk/11e3254737/18017
+
+#EXTINF:-1,OSN H2 HD
+http://51.15.21.98:8898/barrk/11e3254737/18002
+
+#EXTINF:-1,OSN NAT GEO People HD
+http://51.15.21.98:8898/barrk/11e3254737/18009
+
+#EXTINF:-1,OSN Food Network HD
+http://51.15.21.98:8898/barrk/11e3254737/17986
+
+#EXTINF:-1,OSN Living HD
+http://51.15.21.98:8898/barrk/11e3254737/17990
 

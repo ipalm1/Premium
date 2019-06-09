@@ -146,9 +146,12 @@ http://62.210.27.219:80/live.ts?channelId=45&deviceMac=00:1A:79:BE:2F:F6&uid=161
 
 #EXTINF:-1 tvg-id="natgeo.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="National Geographic" tvg-logo="" group-title="Entertainment Channels",National Geographic - National Geographic
 http://62.210.27.219:80/live.ts?channelId=46&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+
 #EXTINF:-1,Brazzers_shalun-tv
 http://50.7.127.60:8081/brazzers_eu/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg4cb96d76f05670a0a3ccd4c0a4525d08T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+
 #EXTINF:-1,Brazzers_erotix-tv
 http://50.7.127.60:8081/brazzers_eu/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg994ba80fb1cce6b9e4f9305aad07fa3fT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+
 #EXTINF:-1,Brazzers TV Europe
 http://79.133.100.5:999/udp/239.191.254.170:15285
